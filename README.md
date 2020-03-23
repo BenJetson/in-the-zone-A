@@ -8,5 +8,5 @@ Code that powered the VRC 3796A robot through the 2017-2018 game season, VRC In 
 
 ## The Game
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1Yo_mlR1VJU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+For more information about the game, [watch the 2-minute overview video](https://youtu.be/1Yo_mlR1VJU).
 
